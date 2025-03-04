@@ -1,2 +1,3 @@
+try {
 String userName = props.getProperty("db.user");
 hello world
