@@ -1,3 +1,4 @@
+} catch (IOException e) {
 public void fetch() throws SQLException, IOException
 try {
 String userName = props.getProperty("db.user");
