@@ -1,3 +1,4 @@
+test.init();
 con=DriverManager.getConnection(url, userName, password);
 OracleJdbcTest test = new OracleJdbcTest();
 } catch (IOException e) {
