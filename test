@@ -1,4 +1,5 @@
 out.close();
+out.close();
 public class OracleJdbcTest
 test.init();
 con=DriverManager.getConnection(url, userName, password);
