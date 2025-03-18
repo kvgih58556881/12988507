@@ -1,3 +1,4 @@
+public void fetch() throws SQLException, IOException
 } catch (IOException e) {
 test.init();
 out.close();
