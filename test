@@ -1,3 +1,4 @@
+} catch (IOException e) {
 test.init();
 out.close();
 out.close();
