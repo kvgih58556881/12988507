@@ -1,3 +1,4 @@
+if (out != null) {
 public void fetch() throws SQLException, IOException
 } catch (IOException e) {
 test.init();
