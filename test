@@ -1,3 +1,4 @@
+ResultSet rs = ps.executeQuery();
 test.fetch();
 test.fetch();
 ps.close();
